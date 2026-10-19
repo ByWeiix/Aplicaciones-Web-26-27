@@ -8,3 +8,8 @@
 .Lineado {
     border: 2px solid black;
 }
+
+
+.Lineado2 {
+    border: 4px double black;
+}
